@@ -1,0 +1,20 @@
+{
+    "Author": "Robert Smit [MVP]",
+    "ContentSize": 1129,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/place-vm-into-windows-azure-pack-subscription/master/Place%20VM%20into%20WAP%20Subscription.ps1",
+    "DownloadCount": 697,
+    "Id": "Place-VM-into-Windows-acfa8edc",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 559,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Sample Script Places your non Windows\u00a0Azure Pack Virtual Machine ( Basic created Virtual Machine Manager\u00a0Virtual Machine )\u00a0Into any Windows Azure Pack Subscription by selecting the Virtual Machine and Tenant User and place this Virtual Machine into\u00a0the PrivateCloud.",
+    "Title": "Place VM into Windows Azure Pack Subscription",
+    "UpdatedDate": "2015-4-10T00:00:00",
+    "Url": "https://github.com/azureautomation/place-vm-into-windows-azure-pack-subscription",
+    "UserTags": "Subscriptions, VMM, Windows Azure Pack"
+}
